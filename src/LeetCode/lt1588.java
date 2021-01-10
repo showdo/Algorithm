@@ -1,4 +1,4 @@
-package ArraysT.LeetCode;
+package LeetCode;
 
 /**
  * 前缀和

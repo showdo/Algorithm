@@ -1,4 +1,4 @@
-package ArraysT.LeetCode;
+package LeetCode;
 
 /**
  * 最多买卖两次，任一天结束有5种状态，未进行操作、进行了一次买操作、完成一次交易、第二次买操作、完成第二次交易

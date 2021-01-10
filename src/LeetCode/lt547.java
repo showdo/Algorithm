@@ -1,4 +1,4 @@
-package Graph.LeetCode;
+package LeetCode;
 
 import com.sun.xml.internal.bind.v2.TODO;
 

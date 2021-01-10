@@ -1,4 +1,4 @@
-package StringY.LeetCode;
+package LeetCode;
 
 
 /**
